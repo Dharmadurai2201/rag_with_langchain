@@ -19,9 +19,3 @@ Create a chatbot to interface with your private data and documents using LangCha
 7. Chatbot
 
 ---
-
-## COURSE LINK
-
-<https://learn.deeplearning.ai/courses/langchain-chat-with-your-data/>
-
----
